@@ -16,7 +16,7 @@ B-factor z-scores per residue.
 ## Findings
 - KPC-2 and CTX-M-15 (class A) have near-identical distance maps; OXA-48
   (class D) is similar; NDM-1 (class B metallo) differs clearly.
-- NDM-1 binds two zinc ions: Zn1 (His120, His122, His189) and
+- NDM-1 binds two zinc ions (Zn-Zn 3.84 A): Zn1 (His120, His122, His189) and
   Zn2 (Asp124, Cys208, His250).
 - NDM-5 differs from NDM-1 by V88L and M154L. Mapped onto NDM-1, V88 lies
   15.4 A and M154 9.3 A from the nearest Zn: both are outside the first

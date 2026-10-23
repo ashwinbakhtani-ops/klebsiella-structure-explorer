@@ -1,6 +1,6 @@
 # Structural Analysis of South Asian Carbapenem and ESBL Enzymes
 
-Companion to klebsiella-amr-south-asia. Genomic surveillance showed which
+Companion to [klebsiella-amr-south-asia](https://github.com/ashwinbakhtani-ops/klebsiella-amr-south-asia). Genomic surveillance showed which
 resistance enzymes dominate (NDM, KPC, OXA-48, CTX-M-15); this project
 examines their structures.
 
@@ -53,3 +53,6 @@ B-factor z-scores per residue.
 
 ## Reproduce
 python fetch_structures.py && python make_figures.py && python burial_flexibility.py
+
+## License
+MIT

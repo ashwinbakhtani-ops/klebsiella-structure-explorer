@@ -52,7 +52,7 @@ B-factor z-scores per residue.
   structure; B-factors depend on crystal packing and resolution.
 
 ## Reproduce
-python fetch_structures.py && python make_figures.py && python burial_flexibility.py
+python fetch_structures.py && python make_figures.py && python burial_flexibility.py && python zinc_site.py
 
 ## License
 MIT
